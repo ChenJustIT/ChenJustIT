@@ -11,12 +11,6 @@
 </p>
 
 
-
-
-
-
-
-
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
