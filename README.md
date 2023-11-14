@@ -1,8 +1,22 @@
 
-### <div align="center"> <h1 align="center"> Hi There! I am a Data Engineer & Data Analyst   </div>
+### <div align="center"> <h1 align="center"> Hi There! I am a Data Engineer & Data Analyst  </h1> </div>
+<div align="center"> <h1 align="center"> :slightly_smiling_face:Microsoft SQL Server BI Stack :slightly_smiling_face:	</h1> </div>
+
+<b>I have been proficient in MS SQL Server BI Stack.<b>
+
+<p align="center">
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE_maT_fEWfUQy_vPtrKZzR-HFtInkxzyuA&usqp=CAU" alt="Tableau" height="100"/> </a> 
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAK_p8luU2Q0b-PBQnIZC9jqD46ugFSllE4Q&usqp=CAU" height="140"/> </a>
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="80"/> </a>
+</p>
 
 
-<p></p>
+
+
+
+
+
+
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
@@ -26,19 +40,7 @@
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="https://public.tableau.com/app/profile/x83711253/vizzes"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
-
-
-<div align="center"> <h1 align="center"> :slightly_smiling_face:SQL Server BI Stack :slightly_smiling_face:	</h1> </div>
-
-<b>I have been proficient in MS SQL Server BI Stack.<b>
-
-<p align="center">
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToE_maT_fEWfUQy_vPtrKZzR-HFtInkxzyuA&usqp=CAU" alt="Tableau" height="120"/> </a> 
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAK_p8luU2Q0b-PBQnIZC9jqD46ugFSllE4Q&usqp=CAU" height="160"/> </a>
-</p>
-
 
 
 
